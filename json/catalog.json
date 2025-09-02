@@ -1,0 +1,127 @@
+{
+    "categories": [
+        { "id": "clothes", "name": "MaMa Roupas" },
+        { "id": "accessories", "name": "MaMa Acessórrios"},
+        { "id": "souvenir", "name": "MaMa Souvenirs" },
+        { "id": "food", "name": "MaMa Homemade" }
+    ],
+
+    "products": [
+        {
+            "id": "1",
+            "name": "Blue Hoodie",
+            "description": "Na cor azul-marinho, confortável e estiloso. Feito em algodão macio, com ajuste descontraído e capuz ajustável. Perfeito para um look casual e aconchegante.",
+            "price": "40.00",
+            "category": "clothes",
+            "image": "../img/store/hoodie2-clothes.png"
+        },
+
+        {
+            "id": "2",
+            "name": "Bege Hoodie",
+            "description": "Na cor bege, macio e confortável. Feito em algodão de alta qualidade, com capuz ajustável e ajuste descontraído. Ideal para um look casual e aconchegante.",
+            "price": "40.00",
+            "category": "clothes",
+            "image": "../img/store/hoodie-clothes.png"
+        },
+
+        {
+            "id": "3",
+            "name": "Rain Coat",
+            "description": "Casaco impermeável em azul, elegante e funcional. Feito com material resistente à água, possui capuz ajustável e corte confortável. Perfeito para proteção com estilo em dias chuvosos.",
+            "price": "55.00",
+            "category": "clothes",
+            "image": "../img/store/rain-clothes.png"
+        },
+
+        {
+            "id": "4",
+            "name": "T-shirt para Criança",
+            "description": "T-shirt Mama Loves You na cor branca, minimalista e versátil. Feita em algodão macio, com corte confortável e estampa discreta. Perfeita para um look casual e cheio de significado.",
+            "price": "35.00",
+            "category": "clothes",
+            "image": "../img/store/shirt-clothes.png"
+        },
+
+        {
+            "id": "5",
+            "name": "Bolsa de viagem",
+            "description": "Bolsa de viagem na cor écru, espaçosa e elegante. Feita em lona resistente, com alças reforçadas e amplo compartimento interno. Perfeita para escapadelas de fim de semana com estilo e praticidade.",
+            "price": "80.00",
+            "category": "accessories",
+            "image": "../img/store/bag-acessorie.png"
+        },
+
+        {
+            "id": "6",
+            "name": "Gorro",
+            "description": "Gorro Mama Love - Edição Limitada (conjunto de 2), confortável e estiloso. Feito em malha macia, ideal para os dias frios. Perfeito para combinar e compartilhar com quem você ama.",
+            "price": "35.00",
+            "category": "accessories",
+            "image": "../img/store/bennie-acessorie.png"
+        },
+
+        {
+            "id": "7",
+            "name": "Boné",
+            "description": "Boné azul, estiloso e versátil. Feito em algodão resistente, com ajuste regulável e bordado exclusivo. Perfeito para um look casual com atitude.",
+            "price": "25.00",
+            "category": "accessories",
+            "image": "../img/store/cap-acessorie.png"
+        },
+
+        {
+            "id": "8",
+            "name": "Tigela de porcelana",
+            "description": "Tigela Breton Mama Loves You, clássica e charmosa. Feita em cerâmica resistente, com design atemporal e inscrição delicada. Perfeita para começar o dia com estilo e aconchego.",
+            "price": "55.00",
+            "category": "souvenir",
+            "image": "../img/store/bowl-souvenir.png"
+        },
+
+        {
+            "id": "9",
+            "name": "Prato fundo de porcelana",
+            "description": "Prato fundo Mama x Juliette Seban, em porcelana elegante e sofisticada. Design exclusivo, ideal para trazer charme e autenticidade à mesa. Perfeito para refeições especiais.",
+            "price": "43.00",
+            "category": "souvenir",
+            "image": "../img/store/hollow-souvenir.png"
+        },
+        
+        {
+            "id": "10",
+            "name": "Caneca Ti amo",
+            "description": "Caneca Ti Amo - Mama x Juliette Seban, em cerâmica elegante e resistente. Design exclusivo com detalhes delicados, perfeita para desfrutar das suas bebidas favoritas com charme e estilo.",
+            "price": "25.00",
+            "category": "souvenir",
+            "image": "../img/store/mug-souvenir.png"
+        },
+
+        {
+            "id": "11",
+            "name": "Prato de porcelana",
+            "description": "Prato raso Visage Mama, em porcelana de alta qualidade. Design exclusivo e moderno, perfeito para adicionar sofisticação à sua mesa com um toque artístico e único.",
+            "price": "20.00",
+            "category": "souvenir",
+            "image": "../img/store/plate-souvenir.png"
+        },
+
+        {
+            "id": "12",
+            "name": "Mama Love You Mustard",
+            "description": "Mostarda caseira, feita com ingredientes de alta qualidade. Sabor único e autêntico, perfeita para adicionar um toque especial às suas refeições. Ideal para os amantes de sabores intensos e sofisticados.",
+            "price": "18.00",
+            "category": "food",
+            "image": "../img/store/mustard-food.png"
+        },
+
+        {
+            "id": "13",
+            "name": "Mama Love You Pasta",
+            "description": "Les Coquillettes de la Mama, massas deliciosas e autênticas, perfeitas para criar pratos saborosos e reconfortantes. Feitas com ingredientes de alta qualidade, ideais para um jantar simples e cheio de sabor.",
+            "price": "22.00",
+            "category": "food",
+            "image": "../img/store/pasta-food.png"
+        }
+    ]
+}
