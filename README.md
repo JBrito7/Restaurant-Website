@@ -63,7 +63,3 @@ This is an academic project simulating a restaurant website with a fully functio
 3. Update database credentials in /php/config.php.
 
 3. Open index.php in your browser.
-
-
-## 📁 Project Structure
-
