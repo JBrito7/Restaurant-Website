@@ -76,7 +76,7 @@ This is an academic project simulating a restaurant website with a fully functio
 
 1. Clone the repository:  
    ```bash
-   git clone (https://jbrito7.github.io/Restaurant-Website/)
+   git clone (https://jbrito7.github.io/morganedetoi/)
    Set up a local PHP & MySQL environment (XAMPP, MAMP, or similar).
 
 2. Import the provided SQL file into your MySQL database.
