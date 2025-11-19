@@ -1,28 +1,69 @@
-# Simulated Restaurant Project with PHP Store
+# 🍽 Simulated Restaurant Project with PHP Store
 
-This is a school project simulating a restaurant website with a fully functional PHP-based store. All content, including dishes, promotions, and contact info, is fictional and used only for educational purposes.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## Technologies Used
+This is an academic project simulating a restaurant website with a fully functional PHP-based store. All content, including dishes, promotions, and contact information, is fictional and used solely for educational purposes.
+
+---
+
+## 💻 Technologies Used
+
 - PHP
 - MySQL (PDO)
-- HTML5
-- CSS3
+- HTML5 & CSS3
 - JavaScript (jQuery)
 - Bootstrap
 
-## Features
-- Homepage with restaurant highlights
-- Interactive menu
-- Online store with:
+---
+
+## 🚀 Features
+
+- **Homepage** with restaurant highlights
+- **Interactive menu** with dishes, drinks and descriptions
+- **Online store** with:
   - Product listing
   - Shopping cart
   - Checkout (simulated)
-- User authentication (login/register)
-- Fully responsive design for desktop and mobile
+- **User authentication** (login/register)
+- **Fully responsive design** for desktop and mobile
 
-## Project Structure
+---
+
+## 📁 Project Structure
+
 /index.php -> Homepage
 /css/ -> Stylesheets
 /js/ -> JavaScript files
 /img/ -> Images of restaurant and products
 /php/ -> PHP scripts (store, cart, checkout, login)
+
+---
+
+## 📸 Screenshots
+
+![Homepage Example](./img/homepage-screenshot.png)
+![Store Example](./img/store-screenshot.png)
+
+---
+
+## ⚡ How to Run Locally
+
+1. Clone the repository:  
+   ```bash
+   git clone (https://jbrito7.github.io/Restaurant-Website/)
+   Set up a local PHP & MySQL environment (XAMPP, MAMP, or similar).
+
+2. Import the provided SQL file into your MySQL database.
+
+3. Update database credentials in /php/config.php.
+
+3. Open index.php in your browser.
+
+
+## 📁 Project Structure
+
