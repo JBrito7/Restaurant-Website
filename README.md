@@ -46,8 +46,29 @@ This is an academic project simulating a restaurant website with a fully functio
 
 ## 📸 Screenshots
 
-![Homepage Example](./img/homepage-screenshot.png)
-![Store Example](./img/store-screenshot.png)
+![Homepage](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/main.png)
+
+![About](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/about.png)
+
+![Menu](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/menu.png)
+
+![Reservations](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/reservations.png)
+
+![Gallery](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/gallery.png)
+
+![Store](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/store.png)
+
+![Cart](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/cart)
+
+![Admin Users](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/admin-users.png)
+
+![Admin Orders](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/amdin-orders)
+
+![Admin Products](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/admin-products.png)
+
+![Login](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/login.png)
+
+![Register](https://github.com/JBrito7/Restaurant-Website/blob/main/screenshots/register.png)
 
 ---
 
